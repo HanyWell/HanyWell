@@ -1,10 +1,8 @@
 # About me
 - 👋 Hi, I’m @HanyWell
-- 👀 I’m interested in Code
 - 🌱 I’m currently learning Basic GitHub
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I’m never coding befor 😅
+
 
 <!---
 HanyWell/HanyWell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
